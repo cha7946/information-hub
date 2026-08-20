@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://information-hub.netlify.app/sitemap.xml
